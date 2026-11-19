@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Update data
-        run: python tools/update.py
+        run: python tools/update.py --force
       - name: Save updated data
         run: |
           git config user.name "github-actions[bot]"
