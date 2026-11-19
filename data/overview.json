@@ -1,1 +1,111 @@
-
+{
+  "source": "https://lastwarrank.com/bracket/1543",
+  "retrieved_at": "2026-11-19 (indexed snapshot)",
+  "status": "seeded",
+  "servers": [
+    {
+      "server": 397,
+      "hero_power": 47800000000,
+      "power": 77100000000,
+      "kills": 4600000000,
+      "alliances": 27,
+      "players_listed": 265,
+      "top_alliance": "Yex · or No",
+      "top200_thp": null,
+      "top10_thp": null,
+      "top50_thp": null,
+      "kill_delta": null
+    },
+    {
+      "server": 294,
+      "hero_power": 46300000000,
+      "power": 76600000000,
+      "kills": 3300000000,
+      "alliances": 28,
+      "players_listed": 280,
+      "top_alliance": "T4K · TIME FOR KILL",
+      "top200_thp": null,
+      "top10_thp": null,
+      "top50_thp": null,
+      "kill_delta": null
+    },
+    {
+      "server": 297,
+      "hero_power": 45300000000,
+      "power": 76000000000,
+      "kills": 2900000000,
+      "alliances": 28,
+      "players_listed": 275,
+      "top_alliance": "Rbt · 리부팅",
+      "top200_thp": null,
+      "top10_thp": null,
+      "top50_thp": null,
+      "kill_delta": null
+    },
+    {
+      "server": 325,
+      "hero_power": 43400000000,
+      "power": 72400000000,
+      "kills": 3000000000,
+      "alliances": 21,
+      "players_listed": 279,
+      "top_alliance": "2RS · Resurrected",
+      "top200_thp": null,
+      "top10_thp": null,
+      "top50_thp": null,
+      "kill_delta": null
+    },
+    {
+      "server": 321,
+      "hero_power": 39000000000,
+      "power": 67700000000,
+      "kills": 1400000000,
+      "alliances": 25,
+      "players_listed": 316,
+      "top_alliance": "FRw · France pour win",
+      "top200_thp": null,
+      "top10_thp": null,
+      "top50_thp": null,
+      "kill_delta": null
+    },
+    {
+      "server": 371,
+      "hero_power": 36800000000,
+      "power": 64800000000,
+      "kills": 991300000,
+      "alliances": 20,
+      "players_listed": 285,
+      "top_alliance": "RxN · Revenant Nexus",
+      "top200_thp": null,
+      "top10_thp": null,
+      "top50_thp": null,
+      "kill_delta": null
+    },
+    {
+      "server": 383,
+      "hero_power": 33100000000,
+      "power": 58200000000,
+      "kills": 558400000,
+      "alliances": 21,
+      "players_listed": 304,
+      "top_alliance": "5oL · Old League 5",
+      "top200_thp": null,
+      "top10_thp": null,
+      "top50_thp": null,
+      "kill_delta": null
+    },
+    {
+      "server": 304,
+      "hero_power": 28800000000,
+      "power": 49100000000,
+      "kills": 442100000,
+      "alliances": 33,
+      "players_listed": 290,
+      "top_alliance": "1GnX",
+      "top200_thp": null,
+      "top10_thp": null,
+      "top50_thp": null,
+      "kill_delta": null
+    }
+  ]
+}
